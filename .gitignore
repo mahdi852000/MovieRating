@@ -1,0 +1,12 @@
+# JetBrains IDE files
+.idea/
+*.iml
+
+# CMake build directories
+cmake-build-*/
+build/
+
+# Compiled binaries
+*.exe
+*.o
+*.obj
